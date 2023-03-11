@@ -1,0 +1,13 @@
+li:first-child{
+    color:red
+}
+li:last-child{
+    color:blue
+}
+li:nth-child(2){
+    color: violet;
+}
+::first-letter{
+        font-weight: bold;
+        font: size 32px; ;
+}
